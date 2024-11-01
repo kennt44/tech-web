@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Web Development",
+        "description": "Offer curated and well-designed websites that enhance your online presence."
+    },
+    {
+        "name": "Networking",
+        "description": "We offer corporate client networking and set up an ambiance for you to enjoy."
+    },
+    {
+        "name": "ICT Technical",
+        "description": "We value our customers with top-notch ICT solutions tailored to your needs."
+    },
+    {
+        "name": "Digital Marketing",
+        "description": "Boost your brand with our comprehensive digital marketing strategies, including SEO, SEM, and social media marketing."
+    },
+    {
+        "name": "Cloud Solutions",
+        "description": "Seamless cloud integration services to enhance productivity and collaboration in your business."
+    },
+    {
+        "name": "Mobile App Development",
+        "description": "Custom mobile app solutions for both Android and iOS platforms to engage your audience."
+    },
+    {
+        "name": "E-commerce Solutions",
+        "description": "End-to-end e-commerce solutions, from website development to payment integration and logistics."
+    },
+    {
+        "name": "IT Consultancy",
+        "description": "Expert IT consultancy services to help you leverage technology for business growth."
+    },
+    {
+        "name": "Cybersecurity Services",
+        "description": "Robust cybersecurity solutions to protect your business from potential threats and data breaches."
+    },
+    {
+        "name": "Data Analytics",
+        "description": "Transform data into actionable insights with our data analytics services, helping you make informed decisions."
+    },
+    {
+        "name": "UI/UX Design",
+        "description": "Innovative UI/UX design services to enhance user experience and drive engagement."
+    }
+]
